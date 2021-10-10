@@ -3,7 +3,7 @@
 嵌入式板使用Creator- PreSOC Development Kit
 需使用LINUX系統執行
 
-##遊戲操作方式
+## 遊戲操作方式
 一開始會出現主角R寶在LCD上。
 需要按下指矩陣7號來跳躍。
 要跳過@以及|兩個障礙物。
