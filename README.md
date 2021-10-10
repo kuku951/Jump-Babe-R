@@ -11,8 +11,8 @@
 當分數抵達20分時，會顯示WIN。
 如果撞上障礙物遊戲及結束，會顯示FAIL。
 
-#程式執行結果照片檔說明
-1.LED-顯示R寶越過障礙物得分
+## 程式執行結果照片檔說明
+**1.LED-顯示R寶越過障礙物得分**
 2.LCD-顯示FAIL以及WIN
 3.4*4矩陣按鈕-控制R寶跳躍
 ![1](https://user-images.githubusercontent.com/63222978/136709587-4ed09b2f-a77f-46eb-9c2e-fe7c4b1f418c.jpg)
